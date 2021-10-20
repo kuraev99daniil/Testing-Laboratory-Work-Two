@@ -1,0 +1,38 @@
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.engine.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.engine.api.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.engine.core.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\testcentric.engine.metadata.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\NUnitTest.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\NUnitTest.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\Laboratory-Work-Two.exe
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.framework.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\Laboratory-Work-Two.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\Laboratory-Work-Two.exe.config
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.framework.xml
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.csprojAssemblyReference.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.csproj.CoreCompileInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.csproj.CopyComplete
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two\Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.engine.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.engine.api.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.engine.core.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\testcentric.engine.metadata.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\NUnitTest.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\NUnitTest.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\Laboratory-Work-Two.exe
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.framework.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\Laboratory-Work-Two.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\Laboratory-Work-Two.exe.config
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\bin\Debug\nunit.framework.xml
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.csprojAssemblyReference.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.csproj.CoreCompileInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.csproj.CopyComplete
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 2\Laboratory Work Two Git\Testing-Laboratory-Work-Two\NUnitTest\obj\Debug\NUnitTest.pdb
